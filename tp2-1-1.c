@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#define N 20
 
 void main(){
-    #define N 20
     int i;
     double vt[N];
     for(i = 0;i<N; i++) {

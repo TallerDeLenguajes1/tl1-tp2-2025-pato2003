@@ -1,0 +1,6 @@
+2) f) - No se puede ver el archivo "tp2_1_2.c" ya que el archivo no pertenece a la rama main.
+
+      - Se puede ver graficamente el esquema de las ramas y sus uniones y separaciones de la rama main.
+
+      - Se puede observar que se combinaron las ramas main y Opcion_2
+      
